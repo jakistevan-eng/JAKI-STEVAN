@@ -1,0 +1,10 @@
+{
+  "name": "PulseChat - Social Messenger",
+  "description": "Full-featured social messenger with voice notes, voice & video calling, location sharing, quotes status, and emoji reactions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
